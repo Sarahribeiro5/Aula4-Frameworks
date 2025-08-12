@@ -10,9 +10,9 @@ export default function Home() {
         <p className={styles.participants}>Participantes: Jéssica Prestelo, Julia Martins, Nicole Cau, Sarah Ribeiro</p>
       </div>
       <div className={styles.imageContainer}>
-        <Link href="/">Frameworks</Link>
-        <Link href="/">Meta-Frameworks</Link>
-        <Link href="/">Bibliotecas de estilos</Link>
+        <Link href="/Framework">Frameworks</Link>
+        <Link href="/Meta-Framework">Meta-Frameworks</Link>
+        <Link href="/Bibliotecas">Bibliotecas de estilos</Link>
         <Link href="/Next.jsx">Next.jsx</Link>
 
       </div>
