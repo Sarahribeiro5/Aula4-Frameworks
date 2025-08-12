@@ -13,7 +13,7 @@ export default function Home() {
         <Link href="/">Frameworks</Link>
         <Link href="/">Meta-Frameworks</Link>
         <Link href="/">Bibliotecas de estilos</Link>
-        <Link href="/">Next.js 15</Link>
+        <Link href="/Next.jsx">Next.jsx</Link>
 
       </div>
       <div className={styles.titulo}>
